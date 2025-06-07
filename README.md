@@ -35,6 +35,7 @@ Você precisará de um compilador C, como o **GCC**, para rodar este projeto.
 
 Ao executar o programa, o seguinte tabuleiro será exibido no terminal:
 
+```
 ============================
  Tabuleiro de Batalha Naval
 ============================
