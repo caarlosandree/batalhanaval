@@ -66,8 +66,6 @@ O plano é continuar desenvolvendo este projeto para incluir:
 
 Feito por **Carlos André Sabino**.
 
-*(Dica: Você pode trocar o nome acima pelo seu e até colocar um link para o seu perfil do GitHub, assim: `[Seu Nome](https://github.com/seu-usuario)`)*
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
