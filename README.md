@@ -48,7 +48,9 @@ Ao executar o programa, o seguinte tabuleiro será exibido no terminal:
 0 0 0 0 0 0 0 0 0 0 
 0 0 3 3 3 0 0 0 0 0 
 0 0 0 0 0 0 0 0 0 0 
-0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0
+
+```
 
 ## 🚀 Próximos Passos
 
